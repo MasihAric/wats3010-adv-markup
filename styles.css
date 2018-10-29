@@ -1,5 +1,10 @@
 /* Styles for the Advanced Markup assignment. */
 
+ul.poem{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
 /*About page style */
 dt{
     font-weight: 900;    
