@@ -38,6 +38,10 @@ dt{
     margin: 20px;
     padding: 10px;
     font-family: cursive;
+    border: 1px solid black;
+}
+sidebar ul li{
+  display: inline;  
 }
 
 /*Navigation Styles*/
